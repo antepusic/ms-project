@@ -1,0 +1,3 @@
+,datetime,timestamp,user_id,level,task,hr,gsr,rr,temperature,TLX_mental_demand,TLX_physical_demand,TLX_temporal_demand,TLX_performance,TLX_effort,TLX_frustration,points,subjective_diff,subjective_fun,click_per_second
+0,2019-06-27 08:59:35.515,1561625975515,kru08,0,snake,85,3.90625,0.6858026666666666,34.05,2,0,2,8,2,0,400,1,2,0.8
+1,2019-06-27 09:06:58.994,1561626418994,kru08,2,snake,91,3.5587188612099645,0.6636799999999999,34.13,16,0,18,15,18,1,700,17,13,1.8
